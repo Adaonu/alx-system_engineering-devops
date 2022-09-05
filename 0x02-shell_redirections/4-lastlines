@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -it | tail
+ls -it | tail /etc/passwd
