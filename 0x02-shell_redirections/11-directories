@@ -1,2 +1,2 @@
-#!/bin/bash
-ls -l | grep -c ^d
+ #!/bin/bash
+ls /path/to/root_dir/*/*/ -d | wc -l
