@@ -1,2 +1,2 @@
- #!/bin/bash
-ls /path/to/root_dir/*/*/ -d | wc -l
+#!/bin/bash
+find test_dir -type f | wc -l
