@@ -1,0 +1,2 @@
+#!/bin/bash
+alias ls =rm 0-al 0-alias README.md
