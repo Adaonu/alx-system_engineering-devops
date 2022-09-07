@@ -1,0 +1,5 @@
+echo "$((2#$BINARY))" >>  echo "$((2#$BINARY))"
+touch 11-binary_to_decimal
+echo echo 0 0 
+touch 11-binary_to_decimal
+echo echo 0 0
